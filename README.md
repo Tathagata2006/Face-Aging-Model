@@ -1,7 +1,9 @@
 # Face-Aging-Model
 
-### Name : Tathagata Roy
-### Roll No. : 25B3954
+**Name**: Tathagata Roy
+**Roll No.**: 25B3954
+
+---
 
 This is the official repository for the Face Aging Model project, conducted under the prestigious Seasons of Code (SoC) 2026 initiative by the Web and Coding Club (WnCC), IIT Bombay.
 
